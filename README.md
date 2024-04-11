@@ -34,9 +34,8 @@ https://replit.com/@AntuSarder/Caesar-Cipher-A-text-encoder-and-decoder?v=1#main
 
 ## Installation
 To install the Caesar Cipher program, follow these steps:
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Himel-Sarder/Caesar-Cipher--Text-encoder-decoder.git`
 2. Navigate to the project directory: `cd caesar cipher`
-3. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
 To use the Caesar Cipher program, run the following command:
